@@ -13,6 +13,7 @@ import {
 import storage from 'redux-persist/lib/storage';
 
 import { modalReducer } from './modal/modal.reducer';
+import { postDetailsReducer } from './postDetails/postDetails.reducer';
 import { productsReducer } from './products/products.reducer';
 
 const productsConfig = {
@@ -26,6 +27,7 @@ export const store = configureStore({
   reducer: {
     productsStore: persistReducer(productsConfig, productsReducer),
     modal: modalReducer,
+    magazine: postDetailsReducer,
   },
 
   middleware: getDefaultMiddleware =>
