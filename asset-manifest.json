@@ -1,29 +1,27 @@
 {
   "files": {
     "main.css": "/React_Modul_7-1/static/css/main.2838a7a5.css",
-    "main.js": "/React_Modul_7-1/static/js/main.1ca5d5e0.js",
+    "main.js": "/React_Modul_7-1/static/js/main.6d8353ff.js",
     "static/js/763.a3f58bb5.chunk.js": "/React_Modul_7-1/static/js/763.a3f58bb5.chunk.js",
-    "static/js/27.91dc7981.chunk.js": "/React_Modul_7-1/static/js/27.91dc7981.chunk.js",
+    "static/js/27.77cec5da.chunk.js": "/React_Modul_7-1/static/js/27.77cec5da.chunk.js",
     "static/js/953.9c55778b.chunk.js": "/React_Modul_7-1/static/js/953.9c55778b.chunk.js",
     "static/css/348.04046599.chunk.css": "/React_Modul_7-1/static/css/348.04046599.chunk.css",
     "static/js/348.96c9d714.chunk.js": "/React_Modul_7-1/static/js/348.96c9d714.chunk.js",
     "static/js/422.c69f54aa.chunk.js": "/React_Modul_7-1/static/js/422.c69f54aa.chunk.js",
-    "static/js/279.2184604d.chunk.js": "/React_Modul_7-1/static/js/279.2184604d.chunk.js",
     "static/js/608.d2a85067.chunk.js": "/React_Modul_7-1/static/js/608.d2a85067.chunk.js",
     "index.html": "/React_Modul_7-1/index.html",
     "main.2838a7a5.css.map": "/React_Modul_7-1/static/css/main.2838a7a5.css.map",
-    "main.1ca5d5e0.js.map": "/React_Modul_7-1/static/js/main.1ca5d5e0.js.map",
+    "main.6d8353ff.js.map": "/React_Modul_7-1/static/js/main.6d8353ff.js.map",
     "763.a3f58bb5.chunk.js.map": "/React_Modul_7-1/static/js/763.a3f58bb5.chunk.js.map",
-    "27.91dc7981.chunk.js.map": "/React_Modul_7-1/static/js/27.91dc7981.chunk.js.map",
+    "27.77cec5da.chunk.js.map": "/React_Modul_7-1/static/js/27.77cec5da.chunk.js.map",
     "953.9c55778b.chunk.js.map": "/React_Modul_7-1/static/js/953.9c55778b.chunk.js.map",
     "348.04046599.chunk.css.map": "/React_Modul_7-1/static/css/348.04046599.chunk.css.map",
     "348.96c9d714.chunk.js.map": "/React_Modul_7-1/static/js/348.96c9d714.chunk.js.map",
     "422.c69f54aa.chunk.js.map": "/React_Modul_7-1/static/js/422.c69f54aa.chunk.js.map",
-    "279.2184604d.chunk.js.map": "/React_Modul_7-1/static/js/279.2184604d.chunk.js.map",
     "608.d2a85067.chunk.js.map": "/React_Modul_7-1/static/js/608.d2a85067.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2838a7a5.css",
-    "static/js/main.1ca5d5e0.js"
+    "static/js/main.6d8353ff.js"
   ]
 }
