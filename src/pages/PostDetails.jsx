@@ -9,7 +9,10 @@ import {
   useLocation,
   useParams,
 } from 'react-router-dom';
-import { fetchPostDetails } from 'redux/postDetails/postDetails.reducer';
+import {
+  fetchContacts,
+  fetchPostDetails,
+} from 'redux/postDetails/postDetails.reducer';
 
 const PostsComments = lazy(() => import('pages/PostsComments'));
 
@@ -26,6 +29,7 @@ const PostDetails = () => {
 
   useEffect(() => {
     dispatch(fetchPostDetails(postId));
+    dispatch(fetchContacts());
   }, [postId, dispatch]);
 
   return (
@@ -43,7 +47,7 @@ const PostDetails = () => {
       )}
       <div>
         <NavLink className="header-link" to="comments">
-          Comments
+          Comments eee
         </NavLink>
       </div>
       <Suspense fallback={<Loader />}>
